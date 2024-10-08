@@ -18,22 +18,7 @@
         />
         <img src="https://github-readme-stats.vercel.app/api?username=pedroreiis&show_icons=true&title_color=C00102&icon_color=C00102" />
       </picture>
-    </td>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreiis&layout=compact&theme=dark&title_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreiis&layout=compact&title_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreiis&layout=compact&title_color=C00102" />
-      </picture>
-    </td>
-  </tr>
-</table>
+
 
 ### 🛠️ Skills
 
