@@ -2,7 +2,7 @@
 
 - 😥 Não estou Trabalhando no momento
 - 📖 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
+
 <table>
   <tr style="border: none;">
     <td style="border: none;">
