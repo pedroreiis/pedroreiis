@@ -1,16 +1,41 @@
-## Hi there 👋
+## Ola! Meu nome é Pedro Reis 👋
 
-<!--
-**pedroreiis/pedroreiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😥 Não estou Trabalhando no momento
+- 📖 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=pedroreiis&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=pedroreiis&show_icons=true&title_color=C00102&icon_color=C00102" />
+      </picture>
+    </td>
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreiis&layout=compact&theme=dark&title_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreiis&layout=compact&title_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroreiis&layout=compact&title_color=C00102" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
