@@ -1,16 +1,16 @@
-# Bem-vindo(a) ao meu perfil! 😁
+# Welcome to my profile! 😁
 
-## Sobre mim:
+## About me:
 
-👋 Olá, mundo! Me chamo Pedro, sou estudante de Analíse e Desenvolvimento de Sistema. Tenho 22 anos e buscos aprender a profissão de programador.
+👋 Hello World! My name is Pedro, I'm a System Analysis and Development student. I'm 22 years old and I'm looking to learn the profession of programmer.
 
-💻 Sempre gostei de tecnologia e a infinidade de possibilidades que ela gera, sempre fui muito curioso e apaixonado por aprender coisas novas.
+💻 I've always liked technology and the infinite possibilities it generates, I've always been very curious and passionate about learning new things.
 
-🌟Ainda assim, sou muito leigo na área da programação, estou disposto a receber ensinamentos e oportunidades.
+🌟Even so, I am very new to programming and am willing to receive teachings and opportunities.
 
-🌎 Atualmente moro no Brasil, mas estou pronto para colaborar em projetos de qualquer lugar do mundo!
+🌎 I currently live in Brazil, but I'm ready to collaborate on projects from anywhere in the world!
  
-## Redes sociais e formas de contato:
+## Social networks and forms of contact:
  
 <div> 
   <a href="https://www.instagram.com/pedroo_reiis7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
