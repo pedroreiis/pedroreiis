@@ -2,7 +2,7 @@
 
 ## About me:
 
-👋 Hello World! My name is Pedro, I'm a System Analysis and Development student. I'm 22 years old and I'm looking to learn the profession of programmer.
+👋 Hello World! My name is Pedro, I'm a System Analysis and Development student. I'm 23 years old and I'm looking to learn the profession of programmer.
 
 💻 I've always liked technology and the infinite possibilities it generates, I've always been very curious and passionate about learning new things.
 
